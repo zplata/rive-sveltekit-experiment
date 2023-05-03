@@ -2,7 +2,7 @@
 
 An experiment into using [Rive's](https://rive.app/) [Web (JS) runtime](https://github.com/rive-app/rive-wasm) in a SvelteKit application, with a reusable Rive Svelte component in multiple pages.
 
-This experiment was built on a Rive Creative Stream. Youtube link coming soon!
+This experiment was built on a Rive Creative Stream. Link [here](https://www.youtube.com/watch?v=uzoQf1FqUEw)!
 
 ## Rive Assets used
 
