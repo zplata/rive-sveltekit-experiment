@@ -1,38 +1,17 @@
-# create-svelte
+# Rive SvelteKit Experiment
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+An experiment into using [Rive's](https://rive.app/) [Web (JS) runtime](https://github.com/rive-app/rive-wasm) in a SvelteKit application, with a reusable Rive Svelte component in multiple pages.
 
-## Creating a project
+This experiment was built on a Rive Creative Stream. Youtube link coming soon!
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Rive Assets used
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+- 404 page: https://rive.app/community/4954-10032-fire-skull/
+- Landing page: https://rive.app/community/4513-9178-eclipse/
+- State Machine inputs example: https://rive.app/community/4951-10031-grimley/
+## Running Locally
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- Clone the project down to your machine
+- `cd rive-sveltekit-experiment`
+- Run `npm i` to install dependencies
+- Run `npm run dev -- --open` to open the app in a browser
